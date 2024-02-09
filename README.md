@@ -5,6 +5,11 @@ mass-xss-hunting: Automated XSS Vulnerability Scanner with Enhanced Efficiency
 
 Streamline your XSS bug hunting with Mass Hunting. This powerful tool leverages `gau` and `kxss` to swiftly uncover vulnerabilities. Note: `gau` and `kxss` installations are required.
 
+## ScreenShot
+![image](https://github.com/ogh-bnz/mxh/assets/99647279/86087ae3-4968-42d8-b3cd-85555abde400)
+
+
+
 ## Dependencies
 
 Mass XSS Hunting relies on the following external tools:
